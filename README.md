@@ -12,9 +12,8 @@ A missão deste projeto é promover consistência, eficiência e excelência té
 - **`style-guides/`**: Guias de estilo de código para diversas linguagens.
 - **`templates/`**: Modelos de documentos importantes, como Architectural Decision Records (ADRs).
 - **`runbooks/`**: Exemplos de manuais operacionais para ajudar a gerenciar a saúde dos serviços.
-- **`automated-scripts/`**: Pequenos scripts para automatizar tarefas comuns do dia a dia.
 - **`technical-talks/`**: Materiais de apresentações técnicas para compartilhar conhecimento.
-- **`code-reviews/`**: Exemplos de revisões de código de alta qualidade, com foco em mentorar e aprimorar.
+- **`code-reviews/`**: Um template de pull request de alta qualidade, com foco em mentorar e aprimorar.
 
 ---
 
